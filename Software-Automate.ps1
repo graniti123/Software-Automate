@@ -1,9 +1,10 @@
 <# 
 Projekt: Hybrid-Software-Installation
+Autor: Granit Elshani
 Beschreibung: 
 Automatisierte Installation von Standard- und Spezialsoftware auf einem Windows-Rechner.
 Alle Installationen erfolgen im Silent-Mode.
-Logs werden zentral dokumentiert: \\server\logs\Büro-Software-Install.log
+Logs werden zentral dokumentiert: \\YourServer\programme\Software\logs_Powershell
 #>
 
 $LogPath = "\\server\logs\Büro-Software-Install.log"
