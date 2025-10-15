@@ -49,10 +49,14 @@ Standardinstallationen:
 
 App	Icon
 Firefox	                                                                          🦊
+
 Notepad++	                                                                        📝
-Java	                                                                            ☕
+
+Java	                                                                             ☕
+
 Greenshot                                                                        	📸
-7zip	                                                                            📦
+
+7zip	                                                                             📦
 
 Bei Bedarf Apps hinzufügen oder entfernen.
 
