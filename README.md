@@ -29,12 +29,17 @@ Auf lokalen Pfad anpassen, z. B. C:\Temp\Büro-Software-Install.log
 Schreibrechte prüfen
 
 🔹 Quellen für Software
-Software	Pfad	Icon
+Software	Pfad
 Office 2019	\\deinserver\Software\Office_2019\	                                  🟦
+
 Citrix Workspace	\\deinserver\Software\CitrixWorkspace\CitrixWorkspace.exe	      🟪
-MyApps Script	\\deinserver\Skripte\myapps.ps1	                                    🟩
-EVA Starter	\\deinserver\Software\EVA_Starter\EVA_Start.jnlp	                    🟨
+
+MyApps Script	\\deinserver\Skripte\myapps.ps1	                                   🟩
+
+EVA Starter	\\deinserver\Software\EVA_Starter\EVA_Start.jnlp	                    🟨 
+
 Windream Client	\\deinserver\Software\Windream\Client\	                          🟥
+
 
 Alle Pfade müssen erreichbar sein (Netzwerkfreigaben)
 
